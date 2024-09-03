@@ -76,7 +76,7 @@ function get_rc4_names(_0x603de6) {
 }
 function _0x3649() {
   const _0x15017c = [
-    "#play_button",
+    "#pl_but",
     "ERROR",
     "885CiByVf",
     "waitForSelector",
